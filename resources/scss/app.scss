@@ -68,3 +68,15 @@
       transform: rotate(360deg);
     }
   }
+
+
+  //Movies
+
+  .information{
+    opacity: 0;
+  }
+  .information:hover{
+    transition-duration:0.8s;
+    opacity: 1;
+  }
+
