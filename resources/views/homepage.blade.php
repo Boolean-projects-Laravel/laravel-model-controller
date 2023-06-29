@@ -58,7 +58,7 @@
         {{-- Animazione di una libreria --}}
        
     
-    <h3 class="text-center">Ciao! sono mi chiamo IA!</h3>
+    <h3 class="text-center">Ciao! Mi chiamo IA!</h3>
     <h3 class="text-center">Ti dò il benvenuto nella Boolean Movies!</h3>
     <h3 class="text-center">Scegli pure un film dalla nostra lista!</h3>
 
